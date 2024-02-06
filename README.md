@@ -16,3 +16,6 @@ Open the portfolio website in a web browser.
 1-Navigate through the different sections using the navigation menu or scrolling.
 2-Click on projects or skill icons to learn more.
 3- You can use contact form once u connect backend.
+
+This portfolio was inspired by various design trends and personal branding strategies.
+Special thanks to some youtubers for inspiration of designing this portfolio.
